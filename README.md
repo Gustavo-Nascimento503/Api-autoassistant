@@ -230,10 +230,6 @@ Aqui está um exemplo da estrutura JSON representando as informações da `usuar
 - 405: Acesso restrito ao recurso.
 - 500: Erro interno do servidor.
 
-## Diagrama de arquitetura macro
-
-![Arquitetura](https://raw.githubusercontent.com/GustavoFIAP96687/Challenge-Digital-Business/master/img/Arquitetura.png)
-
 ## Como testar
 
 - 1: No postman ou insomnia importe o arquivo JSON, exixtem 2 um para testar local e outro na azure.
